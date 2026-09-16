@@ -5,8 +5,17 @@
   <link>https://www.amrest.eu/es/noticias/notas-de-prensa</link>
   <description>Últimas notas de prensa y noticias para inversores de AmRest</description>
   <language>es</language>
-  <lastBuildDate>Wed, 16 Sep 2026 12:40:20 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2026 13:36:26 +0000</lastBuildDate>
   <ns0:link href="https://www.amrest.eu/es/noticias/notas-de-prensa" rel="self" type="application/rss+xml" />
+  <item>
+   <title>AmRest alcanza unas ventas de 641,9 millones de euros y un beneficio neto de 3,9 millones de euros en el segundo trimestre</title>
+   <link>https://www.amrest.eu/es/noticias/amrest-alcanza-unas-ventas-de-6419-millones-de-euros-y-un-beneficio-neto-de-39-millones-de</link>
+   <description>Categoría: AmRest. AmRest alcanza unas ventas de 641,9 millones de euros y un beneficio neto de 3,9 millones de euros en el segundo trimestre</description>
+   <guid isPermaLink="true">https://www.amrest.eu/es/noticias/amrest-alcanza-unas-ventas-de-6419-millones-de-euros-y-un-beneficio-neto-de-39-millones-de</guid>
+   <category>AmRest</category>
+   <ns1:content url="https://www.amrest.eu/sites/default/files/styles/amrest_news_cards_block_image_style/public/2024-07/news-amrest.png?itok=TyMqzla_" medium="image" />
+   <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
    <title>Nota de prensa que resume los resultados financieros de AmRest del 1S y 2T 2026</title>
    <link>https://www.amrest.eu/es/noticias/nota-de-prensa-que-resume-los-resultados-financieros-de-amrest-del-1s-y-2t-2026</link>
@@ -40,7 +49,7 @@
    <description>Categoría: AmRest. AmRest alcanza unas ventas de 588,7 millones de euros en el primer trimestre de 2026</description>
    <guid isPermaLink="true">https://www.amrest.eu/es/noticias/amrest-alcanza-unas-ventas-de-5887-millones-de-euros-en-el-primer-trimestre-de-2026</guid>
    <category>AmRest</category>
-   <ns1:content url="https://www.amrest.eu/sites/default/files/styles/amrest_news_cards_block_image_style/public/2020-10/Tablet_2.jpg?itok=B3HZ4vWR" medium="image" />
+   <ns1:content url="https://www.amrest.eu/sites/default/files/styles/amrest_news_cards_block_image_style/public/2024-07/news-amrest.png?itok=TyMqzla_" medium="image" />
    <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
   </item>
   <item>
@@ -401,15 +410,6 @@
    <category>Inversores</category>
    <ns1:content url="https://www.amrest.eu/sites/default/files/styles/amrest_news_cards_block_image_style/public/2020-10/Tablet_2.jpg?itok=B3HZ4vWR" medium="image" />
    <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-   <title>Resultados financieros de AmRest 2022: el Grupo logra un récord histórico de  ventas en un año con 2.422 millones de euros</title>
-   <link>https://www.amrest.eu/es/noticias/resultados-financieros-de-amrest-2022-el-grupo-logra-un-record-historico-de-ventas-en-un</link>
-   <description>Categoría: AmRest. Resultados financieros de AmRest 2022: el Grupo logra un récord histórico de  ventas en un año con 2.422 millones de euros</description>
-   <guid isPermaLink="true">https://www.amrest.eu/es/noticias/resultados-financieros-de-amrest-2022-el-grupo-logra-un-record-historico-de-ventas-en-un</guid>
-   <category>AmRest</category>
-   <ns1:content url="https://www.amrest.eu/sites/default/files/styles/amrest_news_cards_block_image_style/public/2024-07/news-amrest.png?itok=TyMqzla_" medium="image" />
-   <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
   </item>
  </channel>
 </rss>
