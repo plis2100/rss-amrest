@@ -5,8 +5,17 @@
   <link>https://www.amrest.eu/es/noticias/notas-de-prensa</link>
   <description>Últimas notas de prensa y noticias para inversores de AmRest</description>
   <language>es</language>
-  <lastBuildDate>Thu, 12 Nov 2026 13:52:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 13:15:29 +0000</lastBuildDate>
   <ns0:link href="https://www.amrest.eu/es/noticias/notas-de-prensa" rel="self" type="application/rss+xml" />
+  <item>
+   <title>Nota de prensa que resume los resultados financieros de AmRest para el tercer trimestre de 2026</title>
+   <link>https://www.amrest.eu/es/noticias/nota-de-prensa-que-resume-los-resultados-financieros-de-amrest-para-el-tercer-trimestre-5</link>
+   <description>Categoría: Inversores. Nota de prensa que resume los resultados financieros de AmRest para el tercer trimestre de 2026</description>
+   <guid isPermaLink="true">https://www.amrest.eu/es/noticias/nota-de-prensa-que-resume-los-resultados-financieros-de-amrest-para-el-tercer-trimestre-5</guid>
+   <category>Inversores</category>
+   <ns1:content url="https://www.amrest.eu/sites/default/files/styles/amrest_news_cards_block_image_style/public/2020-10/Tablet_2.jpg?itok=B3HZ4vWR" medium="image" />
+   <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+  </item>
   <item>
    <title>Webcast con Inversionistas que resume los resultados financieros del tercer trimestre de 2026</title>
    <link>https://www.amrest.eu/es/noticias/webcast-con-inversionistas-que-resume-los-resultados-financieros-del-tercer-trimestre-de-2</link>
@@ -400,15 +409,6 @@
    <guid isPermaLink="true">https://www.amrest.eu/es/noticias/nota-de-prensa-que-resume-los-resultados-financieros-de-amrest-para-el-primer-trimestre-3</guid>
    <category>Inversores</category>
    <ns1:content url="https://www.amrest.eu/sites/default/files/styles/amrest_news_cards_block_image_style/public/2020-10/Tablet_2.jpg?itok=B3HZ4vWR" medium="image" />
-   <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-  </item>
-  <item>
-   <title>AmRest alcanza el mayor volumen de negocio en un primer trimestre en la historia del Grupo con ventas de 621,2 millones de euros y un beneficio neto de 3,1 millones de euros</title>
-   <link>https://www.amrest.eu/es/noticias/amrest-alcanza-el-mayor-volumen-de-negocio-en-un-primer-trimestre-en-la-historia-del-grupo</link>
-   <description>Categoría: AmRest. AmRest alcanza el mayor volumen de negocio en un primer trimestre en la historia del Grupo con ventas de 621,2 millones de euros y un beneficio neto de 3,1 millones de euros</description>
-   <guid isPermaLink="true">https://www.amrest.eu/es/noticias/amrest-alcanza-el-mayor-volumen-de-negocio-en-un-primer-trimestre-en-la-historia-del-grupo</guid>
-   <category>AmRest</category>
-   <ns1:content url="https://www.amrest.eu/sites/default/files/styles/amrest_news_cards_block_image_style/public/2024-07/news-amrest.png?itok=TyMqzla_" medium="image" />
    <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
   </item>
  </channel>
